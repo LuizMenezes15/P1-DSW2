@@ -10,7 +10,7 @@
 
 ---
 
-## 👥 Feito Individualmente por:
+## 👥 Feito Individualmente Por:
 * **Luiz Fernando Menezes**
 
 ---
